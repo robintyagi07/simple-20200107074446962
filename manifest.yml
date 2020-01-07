@@ -1,6 +1,6 @@
 applications:
 - disk_quota: 1024M
-  name: demodra
+  name: simple-20200107074446962
   buildpack: sdk-for-nodejs
   command: node app.js
   path: .
